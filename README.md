@@ -3,8 +3,8 @@
 Este proyecto realiza una auditoría completa, análisis exploratorio de datos (EDA) y una solución de Business Intelligence para optimizar el consumo energético y el control de costes de la compañía **EcoEnergy Solutions**.
 
 ##  Acceso a los Recursos
-* **Cuaderno de Análisis (Google Colab):** [Pega aquí el enlace de tu cuaderno]
-* **Panel Interactivo (Google Looker Studio):** [Pega aquí el enlace de tu panel]
+* **Cuaderno de Análisis (Google Colab):** (https://colab.research.google.com/drive/1n1IzK7N99OErBqs9PuRQI-Fp91gTfXzP?usp=sharing)
+* **Panel Interactivo (Google Looker Studio):** (https://datastudio.google.com/reporting/ced29444-093a-4faa-add2-66a67444046d)
 * **Informe Ejecutivo:** El informe resumido de hallazgos se encuentra en formato PDF en la carpeta de informes.
 
 ##  Resumen de Hallazgos Clave
